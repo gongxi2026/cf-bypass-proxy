@@ -1,0 +1,12 @@
+{
+  "name": "cf-bypass-proxy",
+  "version": "1.0.0",
+  "description": "Cloudflare JS Challenge bypass proxy for payment notification",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
